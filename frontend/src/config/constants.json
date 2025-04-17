@@ -1,0 +1,8 @@
+{
+    "role":{
+        "admin":1,
+        "user":2,
+        "guest":3
+    },
+    "appName": "react-frontend"   
+}
